@@ -1,0 +1,84 @@
+.logo{
+    height:85vh;
+    width:100%;
+}
+
+.logo img{
+    height: 85vh;
+    width:100%
+}
+.login{
+    justify-content: center;
+    align-items: center;
+}
+
+.login .form-action-submit{
+    background-color: darkgreen;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+}
+textarea{
+    width: 100px;
+}
+
+.login .label{
+    font-size: 1em;
+}
+
+.login a:link, a:visited{
+    color: black;
+    font-weight: bold;
+}
+
+.login .button{
+    background-color: #32ae4f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    width:100%;
+}
+.footer_contact{
+    color: white;
+    margin-left: 25rem;
+}
+.footer-content{
+    color: white;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+.footer_link{
+    color:white;
+    background-color: rgb(129, 3, 3);
+
+    display: block;
+}
+.footer_container{
+    width:100%;
+    display: flex;
+    margin-left: 4rem;
+}
+.footer_socials{
+    color:white;
+    background-color: rgb(129, 3, 3);
+}
+.footer{
+    background-color: rgb(129, 3, 3);
+    height: 20vh;
+   
+}
+.footer_website{
+    width:100%;
+    margin-left: 15rem;
+    color: white;
+}
+.footer_email{
+    margin-left: 20rem;
+    color: white;
+}
+.footer_website a:link, a:visited{
+    color: white;
+}
+
